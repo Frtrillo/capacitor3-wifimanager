@@ -1,6 +1,6 @@
 {
   "name": "@capacitor-community/wifi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wifi Plugin for iOS, Android and Electron",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -77,15 +77,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/digaus/community-capacitor-wifi"
+    "url": "git+https://github.com/Frtrillo/capacitor3-wifimanager.git"
   },
   "bugs": {
-    "url": "https://github.com/digaus/community-capacitor-wifi/issues"
+    "url": "https://github.com/Frtrillo/capacitor3-wifimanager/issues"
   },
   "dependencies": {
     "node-wifi": "~2.0.15"
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": "https://github.com/Frtrillo/capacitor3-wifimanager#readme"
 }
